@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently bridging the gap between intelligence and interface by working on an AIML and Full Stack project, while simultaneously mastering Java and sharpening my problem-solving skills through Data Structures and Algorithms (DSA).<br>My expertise and interests lie in the realms of Data Science, Machine Learning, and Generative AI, and I am actively looking to collaborate on MLOps projects to help bring models into production-ready environments.<br>When I’m not deep in code or optimizing pipelines, you can find me staying active through badminton, walking, and working out, or unwinding with PC and mobile games.
+I’m currently bridging the gap between intelligence and interface by working on an AIML and Full Stack project, while simultaneously mastering Java and sharpening my problem-solving skills through Data Structures and Algorithms (DSA).<br>My expertise and interests lie in the realms of Data Science, Machine Learning, and Generative AI and I am actively looking to collaborate on MLOps projects to help bring models into production-ready environments.<br>When I’m not deep in code or optimizing pipelines, you can find me staying active through badminton, walking, and working out or unwinding with PC and mobile games.
 
 
 ## 🌐 Socials:
